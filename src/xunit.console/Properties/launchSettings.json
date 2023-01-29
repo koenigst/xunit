@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "xunit.console": {
+      "commandName": "Project",
+      //"commandLineArgs": "E:\\projects\\xunit\\test\\test.xunit.execution\\bin\\Debug\\net452\\test.xunit.execution.dll -method SerializationTests.TheoryWithUnicodeData_ArgumentRoundtrips",
+      //"commandLineArgs": "E:\\projects\\xunit\\test\\test.xunit.execution\\bin\\Debug\\net452\\test.xunit.execution.dll -class EqualityAssertsTests",
+      //"commandLineArgs": "E:\\projects\\xunit\\test\\test.xunit.assert\\bin\\Debug\\net452\\test.xunit.assert.dll -class EquivalenceAssertsTests+ValueTypes_Identical_Deep"
+      "commandLineArgs": "E:\\projects\\xunit\\test\\test.xunit.assert\\bin\\Debug\\net452\\test.xunit.assert.dll"
+    }
+  }
+}

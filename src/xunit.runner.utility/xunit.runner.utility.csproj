@@ -10,7 +10,7 @@
     <DefineConstants Condition=" '$(TargetFramework)' == 'uap10.0' ">$(DefineConstants);WINDOWS_UAP</DefineConstants>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <RootNamespace>Xunit</RootNamespace>
-    <TargetFrameworks>net35;net452;netstandard1.1;netstandard1.5;netcoreapp1.0;uap10.0</TargetFrameworks>
+    <TargetFrameworks>net35;net452;netstandard1.1;netstandard1.5;netcoreapp1.0</TargetFrameworks>
   </PropertyGroup>
 
   <ItemGroup>
